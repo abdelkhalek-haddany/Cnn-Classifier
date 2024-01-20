@@ -1,6 +1,6 @@
 from src.cnnClassifier.constants import *
 from src.cnnClassifier.utils.common import read_yaml, create_directories
-from src.cnnClassifier.entity.config_entity import DataIngestionConfig, PrepareBaseModelConfig,PrepareCallbacksConfig,TrainingConfig
+from src.cnnClassifier.entity.config_entity import DataIngestionConfig, PrepareBaseModelConfig,PrepareCallbacksConfig,TrainingConfig,EvaluationConfig
 import os
 
 class ConfigurationManager:
@@ -85,3 +85,13 @@ class ConfigurationManager:
         )
 
         return training_config
+    
+    def get_valuation_config(self) ->EvaluationConfig:
+        eval_config = EvaluationConfig(
+            path_of_model = "artifacts/training/model.h5",
+            training_data="artifacts/data_ingestion/cats_vs_dogs",
+            all_params=self.params,
+            params_image_size=self.config.IMAGE_SIZE,
+            params_batch_size=self.config.BATCH_SIZE
+        )
+        return eval_config
