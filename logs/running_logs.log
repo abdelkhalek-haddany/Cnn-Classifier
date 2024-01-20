@@ -183,3 +183,220 @@ zipfile.BadZipFile: File is not a zip file
 [2024-01-20 14:22:31,275: INFO: main: >>>>>>>>>> stage Prepare Base Model Stage completed <<<<<<<<<<<<
 
  x===============================x]
+[2024-01-20 14:45:12,764: WARNING: module_wrapper: From c:\Users\NITRO\anaconda3\envs\cnnClassifier\lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2024-01-20 14:45:28,587: INFO: common: created directory at: artifacts]
+[2024-01-20 14:45:28,590: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-01-20 14:45:28,592: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-01-20 14:48:48,001: INFO: common: created directory at: artifacts]
+[2024-01-20 14:48:48,003: INFO: common: created directory at: artifacts\prepare_callbacks]
+[2024-01-20 14:48:48,005: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-01-20 14:57:55,301: INFO: common: created directory at: artifacts]
+[2024-01-20 14:57:55,308: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-01-20 14:57:55,309: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-01-20 15:00:04,453: INFO: common: created directory at: artifacts]
+[2024-01-20 15:00:04,458: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-01-20 15:00:04,459: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-01-20 15:05:25,033: INFO: common: created directory at: artifacts]
+[2024-01-20 15:05:25,033: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-01-20 15:05:25,033: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-01-20 16:06:18,522: WARNING: module_wrapper: From c:\Users\NITRO\anaconda3\envs\cnnClassifier\lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2024-01-20 16:51:47,821: INFO: common: created directory at: artifacts]
+[2024-01-20 16:51:47,823: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-01-20 16:51:47,823: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-01-20 16:51:47,832: INFO: common: created directory at: artifacts\training]
+[2024-01-20 16:58:33,479: INFO: common: created directory at: artifacts]
+[2024-01-20 16:58:33,479: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-01-20 16:58:33,479: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-01-20 16:58:33,479: INFO: common: created directory at: artifacts\training]
+[2024-01-20 16:58:33,657: WARNING: module_wrapper: From c:\Users\NITRO\anaconda3\envs\cnnClassifier\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+]
+[2024-01-20 16:58:33,735: WARNING: module_wrapper: From c:\Users\NITRO\anaconda3\envs\cnnClassifier\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+]
+[2024-01-20 16:59:50,961: INFO: common: created directory at: artifacts]
+[2024-01-20 16:59:50,968: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-01-20 16:59:50,969: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-01-20 16:59:50,970: INFO: common: created directory at: artifacts\training]
+[2024-01-20 17:01:18,248: INFO: common: created directory at: artifacts]
+[2024-01-20 17:01:18,263: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-01-20 17:01:18,263: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-01-20 17:01:18,263: INFO: common: created directory at: artifacts\training]
+[2024-01-20 17:02:59,996: INFO: common: created directory at: artifacts]
+[2024-01-20 17:02:59,998: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-01-20 17:02:59,999: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-01-20 17:03:00,000: INFO: common: created directory at: artifacts\training]
+[2024-01-20 17:03:02,305: WARNING: module_wrapper: From c:\Users\NITRO\anaconda3\envs\cnnClassifier\lib\site-packages\keras\src\utils\tf_utils.py:492: The name tf.ragged.RaggedTensorValue is deprecated. Please use tf.compat.v1.ragged.RaggedTensorValue instead.
+]
+[2024-01-20 17:20:10,394: INFO: common: created directory at: artifacts]
+[2024-01-20 17:20:10,394: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-01-20 17:20:10,394: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-01-20 17:20:10,394: INFO: common: created directory at: artifacts\training]
+[2024-01-20 17:21:29,047: INFO: common: created directory at: artifacts]
+[2024-01-20 17:21:29,047: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-01-20 17:21:29,047: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-01-20 17:21:29,047: INFO: common: created directory at: artifacts\training]
+[2024-01-20 17:33:35,035: WARNING: module_wrapper: From C:\Users\NITRO\anaconda3\envs\cnnClassifier\lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2024-01-20 17:34:33,954: WARNING: module_wrapper: From C:\Users\NITRO\anaconda3\envs\cnnClassifier\lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2024-01-20 17:35:27,766: WARNING: module_wrapper: From C:\Users\NITRO\anaconda3\envs\cnnClassifier\lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2024-01-20 17:35:28,185: INFO: main: >>>>>>>>>> stage Data Ingestion Stage started <<<<<<<<<<<<]
+[2024-01-20 17:35:28,200: INFO: common: created directory at: artifacts]
+[2024-01-20 17:35:28,200: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-01-20 17:35:29,871: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Server: GitHub.com
+Date: Sat, 20 Jan 2024 16:35:25 GMT
+Content-Type: text/html; charset=utf-8
+Vary: X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, Accept-Encoding, Accept, X-Requested-With
+ETag: W/"1443db4971bbad7d704bbc06463fdef1"
+Cache-Control: max-age=0, private, must-revalidate
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+X-Frame-Options: deny
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 0
+Referrer-Policy: no-referrer-when-downgrade
+Content-Security-Policy: default-src 'none'; base-uri 'self'; child-src github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/; connect-src 'self' uploads.github.com www.githubstatus.com collector.github.com raw.githubusercontent.com api.github.com github-cloud.s3.amazonaws.com github-production-repository-file-5c1aeb.s3.amazonaws.com github-production-upload-manifest-file-7fdce7.s3.amazonaws.com github-production-user-asset-6210df.s3.amazonaws.com cdn.optimizely.com logx.optimizely.com/v1/events api.githubcopilot.com objects-origin.githubusercontent.com *.actions.githubusercontent.com wss://*.actions.githubusercontent.com productionresultssa0.blob.core.windows.net/ productionresultssa1.blob.core.windows.net/ productionresultssa2.blob.core.windows.net/ productionresultssa3.blob.core.windows.net/ productionresultssa4.blob.core.windows.net/ productionresultssa5.blob.core.windows.net/ productionresultssa6.blob.core.windows.net/ productionresultssa7.blob.core.windows.net/ productionresultssa8.blob.core.windows.net/ productionresultssa9.blob.core.windows.net/ github-production-repository-image-32fea6.s3.amazonaws.com github-production-release-asset-2e65be.s3.amazonaws.com insights.github.com wss://alive.github.com; font-src github.githubassets.com; form-action 'self' github.com gist.github.com objects-origin.githubusercontent.com; frame-ancestors 'none'; frame-src viewscreen.githubusercontent.com notebooks.githubusercontent.com; img-src 'self' data: github.githubassets.com media.githubusercontent.com camo.githubusercontent.com identicons.github.com avatars.githubusercontent.com github-cloud.s3.amazonaws.com objects.githubusercontent.com secured-user-images.githubusercontent.com/ user-images.githubusercontent.com/ private-user-images.githubusercontent.com opengraph.githubassets.com github-production-user-asset-6210df.s3.amazonaws.com customer-stories-feed.github.com spotlights-feed.github.com objects-origin.githubusercontent.com *.githubusercontent.com; manifest-src 'self'; media-src github.com user-images.githubusercontent.com/ secured-user-images.githubusercontent.com/ private-user-images.githubusercontent.com github-production-user-asset-6210df.s3.amazonaws.com gist.github.com; script-src github.githubassets.com; style-src 'unsafe-inline' github.githubassets.com; upgrade-insecure-requests; worker-src github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/
+Set-Cookie: _gh_sess=LFr%2FSL98D5cU55%2B7SzZj%2BcV%2F8ELNpi%2BoUzaFZtEjNEDzPZvjqhhmO%2B38AIoJK7STcFONVBQDW8INDW2P%2Bx0oq%2FRnttNANGRdBkCcsMAzsqmq7vRI7fXgnh%2BHafetODOZ6UqShkz96EDZ4hD7DtsqfKxrsXhAkQ1IgQ%2FgnqFuGBcaazXXtZyiVcy7XbG0M4RKGdaNZNAvhiC4qYEk5LCXvKwsoTiCxvCg7WG0CNSoVgPZnXzEoTIsDxK1RDND1TwafS980Ami%2BMGrOLVr9dv23w%3D%3D--A8BaPJZjxJeYrdgh--ItKW1FvBpoPzKR0AHASBTA%3D%3D; Path=/; HttpOnly; Secure; SameSite=Lax
+Set-Cookie: _octo=GH1.1.2114030191.1705768524; Path=/; Domain=github.com; Expires=Mon, 20 Jan 2025 16:35:24 GMT; Secure; SameSite=Lax
+Set-Cookie: logged_in=no; Path=/; Domain=github.com; Expires=Mon, 20 Jan 2025 16:35:24 GMT; HttpOnly; Secure; SameSite=Lax
+Accept-Ranges: bytes
+Transfer-Encoding: chunked
+X-GitHub-Request-Id: C52E:506C7:2005EF31:206816FE:65ABF64C
+connection: close
+
+]
+[2024-01-20 17:35:29,871: ERROR: main: File is not a zip file]
+Traceback (most recent call last):
+  File "C:\Users\NITRO\Desktop\MIAAD\DeepLearning\Cnn-Classifier\main.py", line 11, in <module>
+    data_ingestion.main()
+  File "C:\Users\NITRO\Desktop\MIAAD\DeepLearning\Cnn-Classifier\src\cnnClassifier\pipeline\stage_01_data_ingestion.py", line 16, in main
+    data_ingestion.extract_zip_file()
+  File "C:\Users\NITRO\Desktop\MIAAD\DeepLearning\Cnn-Classifier\src\cnnClassifier\components\data_ingestion.py", line 34, in extract_zip_file
+    with zipfile.ZipFile(self.config.local_data_file, 'r') as zip_ref:
+  File "C:\Users\NITRO\anaconda3\envs\cnnClassifier\lib\zipfile.py", line 1266, in __init__
+    self._RealGetContents()
+  File "C:\Users\NITRO\anaconda3\envs\cnnClassifier\lib\zipfile.py", line 1333, in _RealGetContents
+    raise BadZipFile("File is not a zip file")
+zipfile.BadZipFile: File is not a zip file
+[2024-01-20 17:35:29,871: INFO: main: >>>>>>>>>> stage Prepare Base Model Stage started <<<<<<<<<<<<]
+[2024-01-20 17:35:29,886: INFO: common: created directory at: artifacts]
+[2024-01-20 17:35:29,886: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-01-20 17:35:30,013: WARNING: module_wrapper: From C:\Users\NITRO\anaconda3\envs\cnnClassifier\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+]
+[2024-01-20 17:35:30,092: WARNING: module_wrapper: From C:\Users\NITRO\anaconda3\envs\cnnClassifier\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+]
+[2024-01-20 17:35:30,504: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-01-20 17:35:30,708: INFO: main: >>>>>>>>>> stage Prepare Base Model Stage completed <<<<<<<<<<<<
+
+ x===============================x]
+[2024-01-20 17:35:30,708: INFO: main: >>>>>>>>>> stage Training Stage started <<<<<<<<<<<<]
+[2024-01-20 17:35:30,708: INFO: common: created directory at: artifacts]
+[2024-01-20 17:35:30,708: ERROR: main: 'ConfigurationManager' object has no attribute 'get_prepare_callback_config']
+Traceback (most recent call last):
+  File "C:\Users\NITRO\Desktop\MIAAD\DeepLearning\Cnn-Classifier\main.py", line 34, in <module>
+    data_ingestion.main()
+  File "C:\Users\NITRO\Desktop\MIAAD\DeepLearning\Cnn-Classifier\src\cnnClassifier\pipeline\stage_03_training.py", line 16, in main
+    prepare_callbacks_config = config.get_prepare_callback_config()
+AttributeError: 'ConfigurationManager' object has no attribute 'get_prepare_callback_config'
+[2024-01-20 17:37:25,210: WARNING: module_wrapper: From C:\Users\NITRO\anaconda3\envs\cnnClassifier\lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2024-01-20 17:37:25,650: INFO: main: >>>>>>>>>> stage Data Ingestion Stage started <<<<<<<<<<<<]
+[2024-01-20 17:37:25,666: INFO: common: created directory at: artifacts]
+[2024-01-20 17:37:25,666: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-01-20 17:37:26,455: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Server: GitHub.com
+Date: Sat, 20 Jan 2024 16:37:21 GMT
+Content-Type: text/html; charset=utf-8
+Vary: X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, Accept-Encoding, Accept, X-Requested-With
+ETag: W/"204c7a65054ee8397e3c172da7c22190"
+Cache-Control: max-age=0, private, must-revalidate
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+X-Frame-Options: deny
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 0
+Referrer-Policy: no-referrer-when-downgrade
+Content-Security-Policy: default-src 'none'; base-uri 'self'; child-src github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/; connect-src 'self' uploads.github.com www.githubstatus.com collector.github.com raw.githubusercontent.com api.github.com github-cloud.s3.amazonaws.com github-production-repository-file-5c1aeb.s3.amazonaws.com github-production-upload-manifest-file-7fdce7.s3.amazonaws.com github-production-user-asset-6210df.s3.amazonaws.com cdn.optimizely.com logx.optimizely.com/v1/events api.githubcopilot.com objects-origin.githubusercontent.com *.actions.githubusercontent.com wss://*.actions.githubusercontent.com productionresultssa0.blob.core.windows.net/ productionresultssa1.blob.core.windows.net/ productionresultssa2.blob.core.windows.net/ productionresultssa3.blob.core.windows.net/ productionresultssa4.blob.core.windows.net/ productionresultssa5.blob.core.windows.net/ productionresultssa6.blob.core.windows.net/ productionresultssa7.blob.core.windows.net/ productionresultssa8.blob.core.windows.net/ productionresultssa9.blob.core.windows.net/ github-production-repository-image-32fea6.s3.amazonaws.com github-production-release-asset-2e65be.s3.amazonaws.com insights.github.com wss://alive.github.com; font-src github.githubassets.com; form-action 'self' github.com gist.github.com objects-origin.githubusercontent.com; frame-ancestors 'none'; frame-src viewscreen.githubusercontent.com notebooks.githubusercontent.com; img-src 'self' data: github.githubassets.com media.githubusercontent.com camo.githubusercontent.com identicons.github.com avatars.githubusercontent.com github-cloud.s3.amazonaws.com objects.githubusercontent.com secured-user-images.githubusercontent.com/ user-images.githubusercontent.com/ private-user-images.githubusercontent.com opengraph.githubassets.com github-production-user-asset-6210df.s3.amazonaws.com customer-stories-feed.github.com spotlights-feed.github.com objects-origin.githubusercontent.com *.githubusercontent.com; manifest-src 'self'; media-src github.com user-images.githubusercontent.com/ secured-user-images.githubusercontent.com/ private-user-images.githubusercontent.com github-production-user-asset-6210df.s3.amazonaws.com gist.github.com; script-src github.githubassets.com; style-src 'unsafe-inline' github.githubassets.com; upgrade-insecure-requests; worker-src github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/
+Set-Cookie: _gh_sess=sTiEiDR6t0M%2FMoVxBWk4gJK3KHNwfGQFcT%2FwC8fHDsRNpKsqiagW5m3Jem9qfLuZW5jJvdonMzLvwTt4SZ%2BB7F2g%2FiB5VITq9xoCNRxQOJE4EWwe%2Fh02J2yVl1kb365CMRpZ74cdpefOWw6T%2BO5gIpwKWVJrCs3nKki2crawU8FW0ttRGCj9JFlrV3SuYQEyeiDtkb%2BiQ%2Fi8W%2FXcwy%2BGpkfBpTnIB%2BUdnc3F2CL66MkaIAWBZDhNUPJgZBpnFfzYWBEpWnhUV84jga5%2BMEjTdA%3D%3D--hiuPIqeflqB%2Fmgcd--3fOXQZ7mCAy2rScC1Ig%2Bvg%3D%3D; Path=/; HttpOnly; Secure; SameSite=Lax
+Set-Cookie: _octo=GH1.1.577340181.1705768641; Path=/; Domain=github.com; Expires=Mon, 20 Jan 2025 16:37:21 GMT; Secure; SameSite=Lax
+Set-Cookie: logged_in=no; Path=/; Domain=github.com; Expires=Mon, 20 Jan 2025 16:37:21 GMT; HttpOnly; Secure; SameSite=Lax
+Accept-Ranges: bytes
+Transfer-Encoding: chunked
+X-GitHub-Request-Id: C662:E85F9:1248431:1283972:65ABF6C1
+connection: close
+
+]
+[2024-01-20 17:37:26,455: ERROR: main: File is not a zip file]
+Traceback (most recent call last):
+  File "C:\Users\NITRO\Desktop\MIAAD\DeepLearning\Cnn-Classifier\main.py", line 11, in <module>
+    data_ingestion.main()
+  File "C:\Users\NITRO\Desktop\MIAAD\DeepLearning\Cnn-Classifier\src\cnnClassifier\pipeline\stage_01_data_ingestion.py", line 16, in main
+    data_ingestion.extract_zip_file()
+  File "C:\Users\NITRO\Desktop\MIAAD\DeepLearning\Cnn-Classifier\src\cnnClassifier\components\data_ingestion.py", line 34, in extract_zip_file
+    with zipfile.ZipFile(self.config.local_data_file, 'r') as zip_ref:
+  File "C:\Users\NITRO\anaconda3\envs\cnnClassifier\lib\zipfile.py", line 1266, in __init__
+    self._RealGetContents()
+  File "C:\Users\NITRO\anaconda3\envs\cnnClassifier\lib\zipfile.py", line 1333, in _RealGetContents
+    raise BadZipFile("File is not a zip file")
+zipfile.BadZipFile: File is not a zip file
+[2024-01-20 17:37:26,471: INFO: main: >>>>>>>>>> stage Prepare Base Model Stage started <<<<<<<<<<<<]
+[2024-01-20 17:37:26,471: INFO: common: created directory at: artifacts]
+[2024-01-20 17:37:26,471: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-01-20 17:37:26,581: WARNING: module_wrapper: From C:\Users\NITRO\anaconda3\envs\cnnClassifier\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+]
+[2024-01-20 17:37:26,659: WARNING: module_wrapper: From C:\Users\NITRO\anaconda3\envs\cnnClassifier\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+]
+[2024-01-20 17:37:26,989: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-01-20 17:37:27,185: INFO: main: >>>>>>>>>> stage Prepare Base Model Stage completed <<<<<<<<<<<<
+
+ x===============================x]
+[2024-01-20 17:37:27,185: INFO: main: >>>>>>>>>> stage Training Stage started <<<<<<<<<<<<]
+[2024-01-20 17:37:27,194: INFO: common: created directory at: artifacts]
+[2024-01-20 17:37:27,194: ERROR: main: 'ConfigurationManager' object has no attribute 'get_prepare_callback_config']
+Traceback (most recent call last):
+  File "C:\Users\NITRO\Desktop\MIAAD\DeepLearning\Cnn-Classifier\main.py", line 34, in <module>
+    data_ingestion.main()
+  File "C:\Users\NITRO\Desktop\MIAAD\DeepLearning\Cnn-Classifier\src\cnnClassifier\pipeline\stage_03_training.py", line 16, in main
+    prepare_callbacks_config = config.get_prepare_callback_config()
+AttributeError: 'ConfigurationManager' object has no attribute 'get_prepare_callback_config'
+[2024-01-20 18:12:09,823: WARNING: module_wrapper: From C:\Users\NITRO\anaconda3\envs\cnnClassifier\lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2024-01-20 18:12:10,262: INFO: main: >>>>>>>>>> stage Data Ingestion Stage started <<<<<<<<<<<<]
+[2024-01-20 18:12:10,262: INFO: common: created directory at: artifacts]
+[2024-01-20 18:12:10,262: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-01-20 18:12:10,262: INFO: data_ingestion: File already exists of size: 130 KB]
+[2024-01-20 18:12:10,277: ERROR: main: File is not a zip file]
+Traceback (most recent call last):
+  File "C:\Users\NITRO\Desktop\MIAAD\DeepLearning\Cnn-Classifier\main.py", line 11, in <module>
+    data_ingestion.main()
+  File "C:\Users\NITRO\Desktop\MIAAD\DeepLearning\Cnn-Classifier\src\cnnClassifier\pipeline\stage_01_data_ingestion.py", line 16, in main
+    data_ingestion.extract_zip_file()
+  File "C:\Users\NITRO\Desktop\MIAAD\DeepLearning\Cnn-Classifier\src\cnnClassifier\components\data_ingestion.py", line 34, in extract_zip_file
+    with zipfile.ZipFile(self.config.local_data_file, 'r') as zip_ref:
+  File "C:\Users\NITRO\anaconda3\envs\cnnClassifier\lib\zipfile.py", line 1266, in __init__
+    self._RealGetContents()
+  File "C:\Users\NITRO\anaconda3\envs\cnnClassifier\lib\zipfile.py", line 1333, in _RealGetContents
+    raise BadZipFile("File is not a zip file")
+zipfile.BadZipFile: File is not a zip file
+[2024-01-20 18:12:10,277: INFO: main: >>>>>>>>>> stage Prepare Base Model Stage started <<<<<<<<<<<<]
+[2024-01-20 18:12:10,277: INFO: common: created directory at: artifacts]
+[2024-01-20 18:12:10,277: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-01-20 18:12:10,387: WARNING: module_wrapper: From C:\Users\NITRO\anaconda3\envs\cnnClassifier\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+]
+[2024-01-20 18:12:10,451: WARNING: module_wrapper: From C:\Users\NITRO\anaconda3\envs\cnnClassifier\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+]
+[2024-01-20 18:12:10,814: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-01-20 18:12:11,018: INFO: main: >>>>>>>>>> stage Prepare Base Model Stage completed <<<<<<<<<<<<
+
+ x===============================x]
+[2024-01-20 18:12:11,018: INFO: main: >>>>>>>>>> stage Training Stage started <<<<<<<<<<<<]
+[2024-01-20 18:12:11,018: INFO: common: created directory at: artifacts]
+[2024-01-20 18:12:11,018: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-01-20 18:12:11,034: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-01-20 18:12:11,034: INFO: common: created directory at: artifacts\training]
+[2024-01-20 18:12:11,789: WARNING: module_wrapper: From C:\Users\NITRO\anaconda3\envs\cnnClassifier\lib\site-packages\keras\src\utils\tf_utils.py:492: The name tf.ragged.RaggedTensorValue is deprecated. Please use tf.compat.v1.ragged.RaggedTensorValue instead.
+]
+[2024-01-20 18:13:27,767: INFO: main: >>>>>>>>>> stage Training Stage completed <<<<<<<<<<<<
+
+ x===============================x]
