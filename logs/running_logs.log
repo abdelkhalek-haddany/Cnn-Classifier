@@ -401,3 +401,40 @@ zipfile.BadZipFile: File is not a zip file
 
  x===============================x]
 [2024-01-20 18:29:04,029: INFO: common: created directory at: artifacts]
+[2024-01-21 17:28:40,286: WARNING: module_wrapper: From C:\Users\NITRO\anaconda3\envs\cnnClassifier\lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2024-01-21 17:29:27,575: WARNING: module_wrapper: From C:\Users\NITRO\anaconda3\envs\cnnClassifier\lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2024-01-21 17:29:42,105: WARNING: module_wrapper: From C:\Users\NITRO\anaconda3\envs\cnnClassifier\lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2024-01-21 17:29:42,568: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.117:8080]
+[2024-01-21 17:29:42,568: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-01-21 17:29:42,568: INFO: _internal:  * Restarting with stat]
+[2024-01-21 17:29:46,035: WARNING: module_wrapper: From C:\Users\NITRO\anaconda3\envs\cnnClassifier\lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2024-01-21 17:29:46,501: WARNING: _internal:  * Debugger is active!]
+[2024-01-21 17:29:46,517: INFO: _internal:  * Debugger PIN: 465-163-075]
+[2024-01-21 17:29:53,240: INFO: _internal: 127.0.0.1 - - [21/Jan/2024 17:29:53] "GET / HTTP/1.1" 200 -]
+[2024-01-21 17:30:27,520: WARNING: module_wrapper: From C:\Users\NITRO\anaconda3\envs\cnnClassifier\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+]
+[2024-01-21 17:30:27,536: WARNING: module_wrapper: From C:\Users\NITRO\anaconda3\envs\cnnClassifier\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+]
+[2024-01-21 17:30:28,687: INFO: _internal: 127.0.0.1 - - [21/Jan/2024 17:30:28] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -]
+[2024-01-21 17:31:08,508: INFO: _internal:  * Detected change in 'C:\\Users\\NITRO\\Desktop\\MIAAD\\DeepLearning\\Cnn-Classifier\\app.py', reloading]
+[2024-01-21 17:31:09,064: INFO: _internal:  * Restarting with stat]
+[2024-01-21 17:31:13,376: WARNING: module_wrapper: From C:\Users\NITRO\anaconda3\envs\cnnClassifier\lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2024-01-21 17:31:13,936: WARNING: _internal:  * Debugger is active!]
+[2024-01-21 17:31:13,949: INFO: _internal:  * Debugger PIN: 465-163-075]
+[2024-01-21 17:31:13,963: INFO: _internal: 127.0.0.1 - - [21/Jan/2024 17:31:13] "GET / HTTP/1.1" 200 -]
+[2024-01-21 17:31:20,498: WARNING: module_wrapper: From C:\Users\NITRO\anaconda3\envs\cnnClassifier\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+]
+[2024-01-21 17:31:20,512: WARNING: module_wrapper: From C:\Users\NITRO\anaconda3\envs\cnnClassifier\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+]
+[2024-01-21 17:31:21,314: INFO: _internal: 127.0.0.1 - - [21/Jan/2024 17:31:21] "POST /predict HTTP/1.1" 200 -]
+[2024-01-21 17:31:31,019: INFO: _internal: 127.0.0.1 - - [21/Jan/2024 17:31:31] "POST /predict HTTP/1.1" 200 -]
+[2024-01-21 17:31:39,358: INFO: _internal: 127.0.0.1 - - [21/Jan/2024 17:31:39] "POST /predict HTTP/1.1" 200 -]
+[2024-01-21 17:31:47,921: INFO: _internal: 127.0.0.1 - - [21/Jan/2024 17:31:47] "POST /predict HTTP/1.1" 200 -]
