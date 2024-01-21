@@ -58,9 +58,9 @@ jobs:
           # Build a docker container and
           # push it to ECR so that it can
           # be deployed to ECS.
-          docker build -t $ECR_REGISTRY/$ECR_REPOSITORY:20.04 .
-          docker push $ECR_REGISTRY/$ECR_REPOSITORY:20.04
-          echo "::set-output name=image::$ECR_REGISTRY/$ECR_REPOSITORY:20.04"
+          docker build -t 660142773240.dkr.ecr.eu-north-1.amazonaws.com/cnn-clasisfier:20.04 .
+          docker push 660142773240.dkr.ecr.eu-north-1.amazonaws.com/cnn-clasisfier:20.04
+          echo "::set-output name=image::660142773240.dkr.ecr.eu-north-1.amazonaws.com/cnn-clasisfier:20.04"
           
           
   Continuous-Deployment:
